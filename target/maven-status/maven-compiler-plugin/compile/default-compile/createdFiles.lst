@@ -1,0 +1,5 @@
+archetype\adapter\example\package-info.class
+archetype\adapter\example\ExampleServiceAdapter.class
+archetype\adapter\example\ExampleServiceAdapterProxy.class
+archetype\adapter\example\ExampleServiceAdapterOptions.class
+archetype\adapter\example\ExampleServiceAdapterOptionsConverter.class

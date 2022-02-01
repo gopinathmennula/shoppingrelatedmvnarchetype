@@ -1,0 +1,17 @@
+{
+  "modules": [
+    "exampleAdapter=archetype.adapter.example.ExampleServiceAdapter"
+  ],
+  "config": {
+    "exampleAdapter": {
+      "options": {
+        "config": {
+          "address": "knotx.adapter.service.example",
+          "params": {
+            "message": "Hello Knot.x"
+          }
+        }
+      }
+    }
+  }
+}
